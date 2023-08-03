@@ -1,2 +1,14 @@
 git init
 git status
+git rm --cached
+git add
+git commit -m
+git restore
+git log
+git log --oneline
+git log --oneline --pretty
+git config --global user.name "abc"
+git confid --global user.email "abc@gmail.com"
+git checkout -b
+git clone
+git remote -v
